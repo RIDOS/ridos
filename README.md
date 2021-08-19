@@ -2,8 +2,12 @@
 
 Hey there! I'm Azat. I'm a self-taught programmer who loves to create scripts in C++ to further simplify everyday life. Feel free to explore my projects, and even build upon them!
 
-## How do I contact you?
+## How do I contact you?🖋️
 
 [VK](https://vk.com/ptaha99)
 [Telegram](https://tlgg.ru/@RIDOS32)
 [Gmail](mailto:smartsites.dev27@gmail.com)
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ridos&show_icons=true&theme=gotham" alt="ridos"/>
