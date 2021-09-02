@@ -2,6 +2,8 @@
 
 Hey there! I'm Azat. I'm a self-taught programmer who loves to create scripts in C++ to further simplify everyday life. Feel free to explore my projects, and even build upon them!
 
+I also have experience in developing websites using technologies such as OpenServer and the PHP Storm IDE. I studied the languages HTML, CSS, Javascript and PHP!
+
 ## How do I contact you?🖋️
 
 [VK](https://vk.com/ptaha99)
