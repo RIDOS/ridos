@@ -27,6 +27,7 @@ I also have experience in developing websites using technologies such as OpenSer
 ####   📝 — Posts from [my DEV profile](https://dev.to/ridos)
 
 <!-- BLOG-POST-LIST:START -->
+- [My First Project &lpar;WEB Site&rpar;](https://dev.to/ridos/my-first-project-web-site-mph)
 <!-- BLOG-POST-LIST:END -->
 
 📈 my github stats
