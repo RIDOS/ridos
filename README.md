@@ -32,4 +32,4 @@ I also have experience in developing websites using technologies such as OpenSer
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ridos&show_icons=true&theme=gotham" alt="ridos"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ridos&hide=contribs,prs" alt="ridos"/>
