@@ -1,8 +1,8 @@
 ## About me :writing_hand:
 
-Hey there! I'm Azat. I'm a self-taught programmer who loves to create scripts in C++ to further simplify everyday life. Feel free to explore my projects, and even build upon them!
+Hey there! I'm Azat. I'm a back-end developer for the growing Inline organization. I study and practice tasks related to analytics and computer science. Most of my projects are test projects and are designed to explore new architectures. I am open to new things and maybe you will like some of the tasks I have set. :)
 
-I also have experience in developing websites using technologies such as OpenServer and the PHP Storm IDE. I studied the languages HTML, CSS, Javascript and PHP!
+I mainly use PHP language, but I also practice JS.
 
 ## How do I contact you?🖋️
 
