@@ -33,6 +33,10 @@ I mainly use PHP language, but I also practice JS.
 - [My First Project &lpar;WEB Site&rpar;](https://dev.to/ridos/my-first-project-web-site-mph)
 <!-- BLOG-POST-LIST:END -->
 
-📈 my github stats
+📈 My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ridos&hide=contribs,prs" alt="ridos"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ridos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridos&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridos&theme=solarized_dark)
