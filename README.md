@@ -10,6 +10,10 @@ I mainly use PHP language, but I also practice JS.
 [Telegram](https://tlgg.ru/@RIDOS32)
 [Gmail](mailto:smartsites.dev27@gmail.com)
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/gil9red/gil9red/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/gil9red/gil9red/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 #### 💻 — Skills and Tools
 
 <p align="left">
