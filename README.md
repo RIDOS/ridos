@@ -6,7 +6,6 @@ I mainly use PHP language, but I also practice JS.
 
 ## How do I contact you?🖋️
 
-[VK](https://vk.com/ptaha99)
 [Telegram](https://tlgg.ru/@RIDOS32)
 [Gmail](mailto:smartsites.dev27@gmail.com)
 
